@@ -62,7 +62,7 @@ Considere o tema “Bloom” do Power BI como identidade visual da empresa (mesm
 #### 2.1 Menu:
 - Um menu interativo para navegação de páginas
 
-<img src="assets/Menu.jpg" alt="Menu" width = "400">
+<img src="assets/MenuFinal.jpg" alt="Menu" width = "400">
 
 #### 2.2 Análise Gráfica:
 - Filtros de ID, nome, calssificação e tipo de acomodação, ID e nome do Anfitrião e Baiiro;
@@ -83,7 +83,7 @@ Considere o tema “Bloom” do Power BI como identidade visual da empresa (mesm
 - Proporção de Quantidade de Acomodações por Classificação por ano
 - Detalhe das acomodações 
 
-<img src="assets/Analise_Detalhada.jpg" alt="Análise Detalhada" width = "400">
+<img src="assets/Analise_Detalhada.jpg" alt="análises detalhes" width = "400">
 
 ## 3. Tecnologias usadas
 - **Power BI:** Extração de dados, limpeza de dados, construção de métricas, criação das visualizações e análises dos dados.
