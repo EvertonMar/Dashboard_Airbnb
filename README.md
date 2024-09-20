@@ -83,7 +83,7 @@ Considere o tema “Bloom” do Power BI como identidade visual da empresa (mesm
 - Proporção de Quantidade de Acomodações por Classificação por ano
 - Detalhe das acomodações 
 
-<img src="assets/Analise_Detalhada.jpg" alt="análises detalhes" width = "400">
+<img src="assets/analises_detalhes.jpg" alt="Análise Detalhada" width = "400">
 
 ## 3. Tecnologias usadas
 - **Power BI:** Extração de dados, limpeza de dados, construção de métricas, criação das visualizações e análises dos dados.
